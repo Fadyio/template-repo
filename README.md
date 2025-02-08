@@ -20,15 +20,36 @@
 
 *Describe any included examples or provide a link to a demo/tutorial*
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+
 ## Help
 
 *Inform users on where to get help or how to receive support.*
 
+<!-- CONTRIBUTING -->
 ## Contributing
 
-*If your project has specific contribution requirements, update the CONTRIBUTING.md file to ensure those requirements are clearly explained*
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This project welcomes contributions from the community. Before submitting a pull request, please [review my contribution guide](./CONTRIBUTING.md)
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 
 ## License
 

@@ -1,0 +1,22 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": "docs/code-style.md",
+    },
+  ],
+  "github.copilot.chat.testGeneration.instructions": [
+    {
+      "file": "docs/testing.md",
+    }
+  ],
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Be extremely detailed with the file changes and the reason for the change.",
+    }
+  ],
+  "github.copilot.chat.reviewSelection.instructions": [
+    {
+      "file": "docs/code-review.md",
+    }
+  ]
+}

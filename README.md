@@ -2,6 +2,32 @@
   <img alt="Logo" src="https://github.com/Fadyio/Fadyio.com/blob/main/public/static/logo.svg" height="200"/>
 </div>
 
+<p align="center">
+  <a href="https://github.com/Fadyio/template-repo/stargazers">
+    <img
+      alt="Stargazers"
+      src="https://img.shields.io/github/stars/Fadyio/template-repo?style=for-the-badge&logo=starship&color=c678dd&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
+  <a href="https://github.com/Fadyio/template-repo/issues">
+    <img
+      alt="Issues"
+      src="https://img.shields.io/github/issues/Fadyio/template-repo?style=for-the-badge&logo=gitbook&color=f0c062&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
+  <a href="https://github.com/Fadyio/template-repo/contributors">
+    <img
+      alt="Contributors"
+      src="https://img.shields.io/github/contributors/Fadyio/template-repo?style=for-the-badge&logo=opensourceinitiative&color=abcf84&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
+    <a href="https://github.com/Fadyio/template-repo">
+    <img src="https://img.shields.io/github/repo-size/Fadyio/template-repo?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" alt="Repo Size">
+  </a>
+
+  <img src="https://img.shields.io/github/last-commit/Fadyio/template-repo?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" alt="Last Commit">
+</p>
+
 *This repository acts as a template for all of my GitHub repositories. It contains information about the guidelines for those repositories. All files and sections contained in this template are mandatory.*
 
 # Project name
@@ -51,4 +77,6 @@ Don't forget to give the project a star! Thanks again!
 
 *The correct copyright notice format for both documentation and software is*
 
-Copyright (c) 2025 @Fadyio.com.
+<p align="center"><a href="https://github.com/fadyio/template-repo/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=Apache&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
+
+Copyright (c) 2025 [@Fadyio.com](https://fadyio.com).

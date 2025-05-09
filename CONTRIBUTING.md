@@ -1,25 +1,24 @@
-*Detailed instructions on how to contribute to the project*
+# Contributing to [Project Name]
 
-# Contributing to this repository
+Thank you for your interest in contributing! I welcome bug reports, feature suggestions, and pull requests.
 
-I welcome your contributions! There are multiple ways to contribute.
+## Reporting Issues
 
-## Opening issues
+* Check if a similar [issue](link/to/your/issues) already exists.
+* **For Bugs:** Provide a clear title, description, steps to reproduce, and expected vs. actual behavior.
+* **For Enhancements:** Provide a clear title, detailed description, and the motivation behind the suggestion.
 
-For bugs or enhancement requests, please file a GitHub issue 
-When filing a bug remember that the better written the bug is,
-the more likely it is to be fixed.
+## Submitting Pull Requests
 
-## Pull request process
+1.  **Discuss First:** Open or comment on an [issue](link/to/your/issues) to discuss the change before starting significant work.
+2.  **Fork & Branch:** Fork the repository and create a descriptive branch from `main` (e.g., `123-fix-bug`).
+3.  **Develop:** Implement your changes.
+4.  **Update Documentation:** Ensure any relevant documentation or samples are updated.
+5.  **Submit PR:**
+    * Push your branch to your fork.
+    * Open a Pull Request against the original repository's `main` branch.
+    * **Link the Issue:** Reference the related issue (e.g., `Closes #123`).
+    * **Describe Your Changes:** Clearly explain what you did and why.
+6.  **Review:** Address any feedback from maintainers.
 
-1. Ensure there is an issue created to track and discuss the fix or enhancement
-   you intend to submit.
-2. Fork this repository.
-3. Create a branch in your fork to implement the changes. I recommend using
-   the issue number as part of your branch name, e.g. `1234-fixes`.
-4. Ensure that any documentation is updated with the changes that are required
-   by your change.
-5. Ensure that any samples are updated if the base image has been changed.
-6. Submit the pull request. *Do not leave the pull request blank*. Explain exactly
-   what your changes are meant to do and provide simple steps on how to validate.
-   your changes. Ensure that you reference the issue you created as well.
+I appreciate your contributions!

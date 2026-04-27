@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Fadyio/Fadyio.com/blob/main/public/static/logo.svg" height="200"/>
+  <img alt="Logo" src="https://raw.githubusercontent.com/Fadyio/Fadyio.com/main/public/static/logo.svg" height="200"/>
 </div>
 
 <p align="center">
@@ -79,4 +79,4 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="center"><a href="https://github.com/fadyio/template-repo/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
 
-Copyright (c) 2025 [@Fadyio.com](https://fadyio.com).
+Copyright (c) 2025 [Fadyio.com](https://fadyio.com).

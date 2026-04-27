@@ -1,16 +1,16 @@
-# Contributing to [Project Name]
+# Contributing to {{Project Name}}
 
 Thank you for your interest in contributing! I welcome bug reports, feature suggestions, and pull requests.
 
 ## Reporting Issues
 
-* Check if a similar [issue](link/to/your/issues) already exists.
+* Check if a similar [issue](../../issues) already exists.
 * **For Bugs:** Provide a clear title, description, steps to reproduce, and expected vs. actual behavior.
 * **For Enhancements:** Provide a clear title, detailed description, and the motivation behind the suggestion.
 
 ## Submitting Pull Requests
 
-1.  **Discuss First:** Open or comment on an [issue](link/to/your/issues) to discuss the change before starting significant work.
+1.  **Discuss First:** Open or comment on an [issue](../../issues) to discuss the change before starting significant work.
 2.  **Fork & Branch:** Fork the repository and create a descriptive branch from `main` (e.g., `123-fix-bug`).
 3.  **Develop:** Implement your changes.
 4.  **Update Documentation:** Ensure any relevant documentation or samples are updated.

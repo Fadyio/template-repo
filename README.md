@@ -35,10 +35,8 @@
 
 <p align="center">
   <a href="#getting-started">Getting Started</a> •
-  <a href="#project-structure">Structure</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#roadmap">Roadmap</a> •
-  <a href="#license">License</a>
 </p>
 
 ## Key Features

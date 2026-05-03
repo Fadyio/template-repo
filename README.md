@@ -34,11 +34,11 @@
 *This repository acts as a template for all of my GitHub repositories. It contains information about the guidelines for those repositories. All files and sections contained in this template are mandatory.*
 
 <p align="center">
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-project-structure">Structure</a> •
-  <a href="#-contributing">Contributing</a> •
-  <a href="#-roadmap">Roadmap</a> •
-  <a href="#-license">License</a>
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#project-structure">Structure</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#license">License</a>
 </p>
 
 ## Key Features
